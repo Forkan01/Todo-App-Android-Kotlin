@@ -13,6 +13,7 @@ A simple and minimal ToDo list app built with Kotlin in Android Studio. Keep tra
 ---
 ## 📂 Project Structure
 
+```
 📦 com.example.todolist
  ┣ 📜 MainActivity.kt
  ┣ 📜 TaskAdapter.kt
@@ -20,7 +21,7 @@ A simple and minimal ToDo list app built with Kotlin in Android Studio. Keep tra
 📁 res/layout
  ┣ 📜 activity_main.xml
  ┗ 📜 item_task.xml
-
+```
 
 ### ✅ Step-by-step to run the app:
 
