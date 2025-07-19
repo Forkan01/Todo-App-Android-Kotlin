@@ -22,26 +22,24 @@ A simple and minimal ToDo list app built with Kotlin in Android Studio. Keep tra
  ┣ 📜 activity_main.xml
  ┗ 📜 item_task.xml
 ```
-
+---
 ### ✅ Step-by-step to run the app:
 
 1. **Update `build.gradle.kts`**
+   
    Replace the contents of your file:
    `Gradle Scripts > build.gradle.kts (Module :app)`
    with the provided `build.gradle.kts` from the repository.
 
-2. **Add Kotlin files**
+3. **Add Kotlin files**
    
    Place the `.kt` files inside:
    `app > kotlin+java > com.example.todolist`
 
 4. **Add XML layout files**
+   
    Place the `.xml` layout files inside:
    `app > res > layout`
 
----
-
-## ▶️ Run the App
-
-* Choose your emulator or device
+▶️ Run the App
 
